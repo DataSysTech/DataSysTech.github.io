@@ -65,7 +65,7 @@ For the full list of my publications, please go to my [Google Scholar](https://s
 
 # 💻 TPC Activities
 
-- 2024: ACM SIGBED China, ACM MobiHoc, IEEE ICPADS, IEEE MASS, IEEE ICMC, ACM/IEEE EdgeSP (co-Chair), 中国电子学会网络空间安全通信委员, CCF普适计算专委, 山东省电子学会青年科学家工作委员会委员, 山东省电子信息领域专家库
+- 2024: ACM SIGBED China, ACM MobiHoc, IEEE ICPADS, IEEE MASS, IEEE ICMC, ACM/IEEE EdgeSP (co-chair), 中国电子学会网络空间安全通信委员, CCF普适计算专委, 山东省电子学会青年科学家工作委员会委员, 山东省电子信息领域专家库
 - 2023: ACM SIGBED China, ACM MobiHoc, IEEE ICPADS, 山东省电子学会青年科学家工作委员会委员
 - 2022: ACM SIGBED China, ACM MobiHoc, IEEE ICPADS
 - 2021: ACM MobiHoc
