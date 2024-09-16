@@ -46,7 +46,7 @@ For the full list of my publications, please go to my [Google Scholar](https://s
 
 
 # 📖 Educations and Work
-- *2022.05 -  now*, Shandong University, China, <u>Associate Professor</u>. 
+- *2022.05 -  now*, Shandong University, China, <u>Associate Professor</u>, Team leader: Xiuzhen Cheng.
 - *2020.10 - 2022.05*, University of California, Davis, USA, <u>PostDoc</u>, Supervisor: Xin Liu. 
 - *2016.09 - 2020.12*, University of California, Davis, USA, <u>Ph.D.</u>, Supervisor: Prasant Mohapatra. 
 - *2014.08 - 2016.06*, Nanyang Technological University, Singapore, <u>Project Officer</u>, Supervisor: Mo Li.
