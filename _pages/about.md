@@ -52,6 +52,7 @@ For the full list of my publications, please go to my [Google Scholar](https://s
 - *2014.08 - 2016.06*, Nanyang Technological University, Singapore, <u>Project Officer</u>, Supervisor: Mo Li.
 - *2011.09 - 2014.06*, University of Electronic Science and Technology of China, <u>M.S.</u>.
 - *2007.09 - 2011.06*, Hangzhou Dianzi University, China, <u>B.S.</u>.
+<br/><br/>
 - *2019.06 - 2019.08*, AT&T Labs, USA, <u>Research Intern</u>, Mentor: Bo Han and Ip Cheuk.
 - *2018.06 - 2018.08*, Bell Labs, USA, <u>Research Intern</u>, Mentor: Mostafa Uddin, Fang Hao, and Sarit Mukherjee.
 - *2018.03 - 2018.06*, Microsoft Research Asia, China, <u>Research Intern</u>, Mentor: Yunxin Liu.
