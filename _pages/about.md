@@ -26,7 +26,7 @@ I worked as a PostDoc Scholar in Prof. Xin Liu's group at UC Davis 2020-2022 and
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 Serving as a TPC co-chair at [the 7th ACM/IEEE Workshop on Security and Privacy in Edge Computing](https://acm-ieee-sec.org/2024/interact_security.php) (EdgeSP 2024, co-located with SEC), please consider submitting papers. 
-
+- *2024.09*: &nbsp;🎉🎉 我们正在组织[第六届国际青年人工智能大赛](http://iyaic.com/)东部赛区和国际总决赛，欢迎报名参赛.
 
 # 📝 Publications 
 
@@ -60,8 +60,9 @@ For the full list of my publications, please go to my [Google Scholar](https://s
 
 
 # 🔭 Teaching
-- *2023 - now*, Computer Networks, Shandong University
-- *2023 - now*, Operating Systems, Shandong University
+- *2023 - now*, Computer Networks, Undergrad core course, Shandong University
+- *2023 - now*, Operating Systems, Undergrad core course, Shandong University
+- *2024 - now*, Advanced Computer Architecture, Graduate required course, Shandong University
 
 
 # 💻 TPC Activities
