@@ -32,18 +32,18 @@ I worked as a PostDoc Scholar in Prof. Xin Liu's group at UC Davis 2020-2022 and
 
 For the full list of my publications, please go to my [Google Scholar](https://scholar.google.com/citations?user=Xm4NYnsAAAAJ).
 
-- Model Poisoning Attack against Neural Network Interpreters in IoT Devices, TMC, 2024（CCF-A期刊）
-- Ginver: Generative Model Inversion Attacks Against Collaborative Inference, WWW, 2023（CCF-A会议）
-- Federated Learning Hyper-Parameter Tuning From A System Perspective, IOTJ, 2023（SCI一区期刊）
-- Model Poisoning Attack on Neural Network without Reference Data, TC, 2023（CCF-A期刊）
-- Client Selection in Federated Learning: Principles, Challenges, and Opportunities, IOTJ, 2023（SCI一区期刊）
-- Towards Unconstrained Vocabulary Eavesdropping with mmWave Radar using GAN, TMC, 2022（CCF-A期刊）
-- High Speed LED-to-Camera Communication using Color Shift Keying with Flicker Mitigation, TMC, 2020（CCF-A期刊）
-- StrLight: An Imperceptible Visible Light Communication System with String Lights, TMC, 2019（CCF-A期刊）
-- An Acoustic-based Encounter Profiling System, TMC, 2018（CCF-A期刊）
-- Pando: Fountain-Enabled Fast Data Dissemination with Constructive Interference, TON, 2017（CCF-A期刊）
-- DopEnc: Acoustic-based Encounter Profiling Using Smartphones, MobiCom, 2016（CCF-A会议）
-- When Pipelines Meet Fountain: Fast Data Dissemination in Wireless Sensor Networks, SenSys, 2015（CCF-B会议，最佳论文奖）
+- Model Poisoning Attack against Neural Network Interpreters in IoT Devices, IEEE TMC, 2024（CCF-A期刊）
+- Ginver: Generative Model Inversion Attacks Against Collaborative Inference, ACM WWW, 2023（CCF-A会议）
+- Federated Learning Hyper-Parameter Tuning From A System Perspective, IEEE IOTJ, 2023（SCI一区期刊）
+- Model Poisoning Attack on Neural Network without Reference Data, IEEE TC, 2023（CCF-A期刊）
+- Client Selection in Federated Learning: Principles, Challenges, and Opportunities, IEEE IOTJ, 2023（SCI一区期刊）
+- Towards Unconstrained Vocabulary Eavesdropping with mmWave Radar using GAN, IEEE TMC, 2022（CCF-A期刊）
+- High Speed LED-to-Camera Communication using Color Shift Keying with Flicker Mitigation, IEEE TMC, 2020（CCF-A期刊）
+- StrLight: An Imperceptible Visible Light Communication System with String Lights, IEEE TMC, 2019（CCF-A期刊）
+- An Acoustic-based Encounter Profiling System, IEEE TMC, 2018（CCF-A期刊）
+- Pando: Fountain-Enabled Fast Data Dissemination with Constructive Interference, IEEE/ACM TON, 2017（CCF-A期刊）
+- DopEnc: Acoustic-based Encounter Profiling Using Smartphones, ACM MobiCom, 2016（CCF-A会议）
+- When Pipelines Meet Fountain: Fast Data Dissemination in Wireless Sensor Networks, ACM SenSys, 2015（CCF-B会议，最佳论文奖）
 
 
 # 📖 Educations and Work
