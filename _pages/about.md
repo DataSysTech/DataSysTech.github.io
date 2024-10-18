@@ -32,6 +32,7 @@ I worked as a PostDoc Scholar in Prof. Xin Liu's group at UC Davis 2020-2022 and
 
 For the full list of my publications, please go to my [Google Scholar](https://scholar.google.com/citations?user=Xm4NYnsAAAAJ).
 
+- Model Poisoning Attack against Neural Network Interpreters in IoT Devices, TMC, 2024（CCF-A期刊）
 - Ginver: Generative Model Inversion Attacks Against Collaborative Inference, WWW, 2023（CCF-A会议）
 - Federated Learning Hyper-Parameter Tuning From A System Perspective, IOTJ, 2023（SCI一区期刊）
 - Model Poisoning Attack on Neural Network without Reference Data, TC, 2023（CCF-A期刊）
