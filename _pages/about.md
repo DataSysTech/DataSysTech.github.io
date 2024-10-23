@@ -25,6 +25,7 @@ I worked as a PostDoc Scholar in Prof. Xin Liu's group at UC Davis 2020-2022 and
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 我们正在组织[2024全国大学生计算机系统能力大赛-操作系统设计赛（华东区域赛）](https://os.educg.net/)，欢迎报名参赛.
 - *2024.09*: &nbsp;🎉🎉 Serving as a TPC co-chair at [the 7th ACM/IEEE Workshop on Security and Privacy in Edge Computing](https://acm-ieee-sec.org/2024/interact_security.php) (EdgeSP 2024, co-located with SEC), please consider submitting papers. 
 - *2024.09*: &nbsp;🎉🎉 我们正在组织[第六届国际青年人工智能大赛](http://iyaic.com/)东部赛区和国际总决赛，欢迎报名参赛.
 
