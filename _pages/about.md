@@ -81,3 +81,10 @@ For the full list of my publications, please go to my [Google Scholar](https://s
 - *2024.01 - 2026.12*, 山东省优秀青年科学基金(海外)：深远海船载舱养信息化建设和研究，主持
 - *2024.01 - 2026.12*, 山东省自然科学青年基金：物联网感知云平台设计和研究，主持
 - *2024.03 - 2025.12*, 浪潮云州工业互联网有限公司：关于面向QID的可信数据空间技术研究及应用，子课题
+
+# ⚓ Awards
+- 山东大学青年教师教学比赛三等奖
+- ACM Qingdao新星奖, 2024
+- 山东省电子信息行业优秀青年科技工作者, 2022
+- Best Demo Runner-up, ACM HotMobile, 2019
+- Best Paper Award, ACM SenSys 2015
