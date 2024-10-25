@@ -83,7 +83,7 @@ For the full list of my publications, please go to my [Google Scholar](https://s
 - *2024.03 - 2025.12*, 浪潮云州工业互联网有限公司：关于面向QID的可信数据空间技术研究及应用，子课题
 
 # ⚓ Awards
-- 山东大学青年教师教学比赛三等奖
+- 山东大学青年教师教学比赛三等奖, 2024
 - ACM Qingdao新星奖, 2024
 - 山东省电子信息行业优秀青年科技工作者, 2022
 - Best Demo Runner-up, ACM HotMobile, 2019
