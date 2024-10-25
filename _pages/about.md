@@ -86,5 +86,5 @@ For the full list of my publications, please go to my [Google Scholar](https://s
 - 山东大学青年教师教学比赛三等奖, 2024
 - ACM Qingdao新星奖, 2024
 - 山东省电子信息行业优秀青年科技工作者, 2022
-- Best Demo Runner-up, ACM HotMobile, 2019
+- Demo Runner-up Award, ACM HotMobile, 2019
 - Best Paper Award, ACM SenSys 2015
