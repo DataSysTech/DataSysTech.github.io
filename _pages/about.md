@@ -33,6 +33,7 @@ I worked as a PostDoc Scholar in Prof. Xin Liu's group at UC Davis 2020-2022 and
 
 For the full list of my publications, please go to my [Google Scholar](https://scholar.google.com/citations?user=Xm4NYnsAAAAJ).
 
+- IoT-Enabled Supply Chain Management From A Customer Perspective: Challenges and Opportunities, IEEE IOTJ, 2024（SCI一区期刊）
 - Model Poisoning Attack against Neural Network Interpreters in IoT Devices, IEEE TMC, 2024（CCF-A期刊）
 - Ginver: Generative Model Inversion Attacks Against Collaborative Inference, ACM WWW, 2023（CCF-A会议）
 - Federated Learning Hyper-Parameter Tuning From A System Perspective, IEEE IOTJ, 2023（SCI一区期刊）
@@ -44,7 +45,6 @@ For the full list of my publications, please go to my [Google Scholar](https://s
 - An Acoustic-based Encounter Profiling System, IEEE TMC, 2018（CCF-A期刊）
 - Pando: Fountain-Enabled Fast Data Dissemination with Constructive Interference, IEEE/ACM TON, 2017（CCF-A期刊）
 - DopEnc: Acoustic-based Encounter Profiling Using Smartphones, ACM MobiCom, 2016（CCF-A会议）
-- When Pipelines Meet Fountain: Fast Data Dissemination in Wireless Sensor Networks, ACM SenSys, 2015（CCF-B会议，最佳论文奖）
 
 
 # 📖 Educations and Work
