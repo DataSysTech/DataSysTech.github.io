@@ -33,8 +33,9 @@ I worked as a PostDoc Scholar in Prof. Xin Liu's group at UC Davis 2020-2022 and
 
 For the full list of my publications, please go to my [Google Scholar](https://scholar.google.com/citations?user=Xm4NYnsAAAAJ).
 
-- IoT-Enabled Supply Chain Management From A Customer Perspective: Challenges and Opportunities, IEEE IOTJ, 2024（SCI一区期刊）
 - Model Poisoning Attack against Neural Network Interpreters in IoT Devices, IEEE TMC, 2024（CCF-A期刊）
+- IoT-Enabled Supply Chain Management From A Customer Perspective: Challenges and Opportunities, IEEE IOTJ, 2024（SCI一区期刊）
+- Membership Inference Attacks against Incremental Learning in IoT Devices, IEEE TMC, 2024 (CCF-A期刊)
 - Ginver: Generative Model Inversion Attacks Against Collaborative Inference, ACM WWW, 2023（CCF-A会议）
 - Federated Learning Hyper-Parameter Tuning From A System Perspective, IEEE IOTJ, 2023（SCI一区期刊）
 - Model Poisoning Attack on Neural Network without Reference Data, IEEE TC, 2023（CCF-A期刊）
@@ -68,22 +69,24 @@ For the full list of my publications, please go to my [Google Scholar](https://s
 
 
 # 💻 TPC Activities
-
+- *2025*: ACM MobiHoc
 - *2024*: ACM SIGBED China, ACM MobiHoc, IEEE ICPADS, IEEE MASS, IEEE ICMC, ACM/IEEE EdgeSP (co-chair), 中国电子学会网络空间安全通信委员, CCF普适计算专委, 山东省电子学会青年科学家工作委员会委员, 山东省电子信息领域专家库
 - *2023*: ACM SIGBED China, ACM MobiHoc, IEEE ICPADS, 山东省电子学会青年科学家工作委员会委员
 - *2022*: ACM SIGBED China, ACM MobiHoc, IEEE ICPADS
 - *2021*: ACM MobiHoc
 
-# 🐎 Grants
 
+# 🐎 Grants
 - *2024.01 - 2027.12*, 国家自然科学区域联合重点基金：大规模复杂网络系统安全检测与诊断，联合负责人
 - *2024.01 - 2026.12*, 国家自然科学青年基金：基于联邦学习自动超参调整的数据流通赋能加速研究，主持
 - *2024.01 - 2026.12*, 山东省优秀青年科学基金(海外)：深远海船载舱养信息化建设和研究，主持
 - *2024.01 - 2026.12*, 山东省自然科学青年基金：物联网感知云平台设计和研究，主持
 - *2024.03 - 2025.12*, 浪潮云州工业互联网有限公司：关于面向QID的可信数据空间技术研究及应用，子课题
 
+
 # ⚓ Awards
-- 国际青年人工智能大赛区域选拔赛一等奖, 2024
+
+[//]: # (- 国际青年人工智能大赛区域选拔赛一等奖, 2024)
 - 山东大学青年教师教学比赛三等奖, 2024
 - ACM Qingdao新星奖, 2024
 - 山东省电子信息行业优秀青年科技工作者, 2022
