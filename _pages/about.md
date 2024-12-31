@@ -92,4 +92,4 @@ For the full list of my publications, please go to my [Google Scholar](https://s
 - ACM Qingdao新星奖, 2024
 - 山东省电子信息行业优秀青年科技工作者, 2022
 - Demo Runner-up Award, ACM HotMobile, 2019
-- Best Paper Award, ACM SenSys 2015
+- Best Paper Award, ACM SenSys, 2015
