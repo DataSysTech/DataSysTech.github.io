@@ -87,7 +87,7 @@ For the full list of my publications, please go to my [Google Scholar](https://s
 # ⚓ Awards
 
 [//]: # (- 国际青年人工智能大赛区域选拔赛一等奖, 2024)
-- 山东省科学技术进步二等奖, 2024
+[//]: # (- 山东省科学技术进步二等奖, 2024)
 - 山东大学青年教师教学比赛三等奖, 2024
 - ACM Qingdao新星奖, 2024
 - 山东省电子信息行业优秀青年科技工作者, 2022
