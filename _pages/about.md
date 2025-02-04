@@ -69,7 +69,7 @@ For the full list of my publications, please go to my [Google Scholar](https://s
 
 
 # 💻 TPC Activities
-- *2025*: ACM MobiHoc, WASA
+- *2025*: ACM MobiHoc, WASA, IEEE MASS, 操作系统华东赛区组委会
 - *2024*: ACM SIGBED China, ACM MobiHoc, IEEE ICPADS, IEEE MASS, IEEE ICMC, ACM/IEEE EdgeSP (co-chair), 中国电子学会网络空间安全通信委员, CCF普适计算专委, 山东省电子学会青年科学家工作委员会委员, 山东省电子信息领域专家库
 - *2023*: ACM SIGBED China, ACM MobiHoc, IEEE ICPADS, 山东省电子学会青年科学家工作委员会委员
 - *2022*: ACM SIGBED China, ACM MobiHoc, IEEE ICPADS
@@ -86,8 +86,8 @@ For the full list of my publications, please go to my [Google Scholar](https://s
 
 # ⚓ Awards
 
-[//]: # (- 国际青年人工智能大赛区域选拔赛一等奖, 2024)
-[//]: # (- 山东省科学技术进步二等奖, 2024)
+- 国际青年人工智能大赛一等奖, 2024
+- 山东省科学技术进步二等奖, 2024
 - 山东大学青年教师教学比赛三等奖, 2024
 - ACM Qingdao新星奖, 2024
 - 山东省电子信息行业优秀青年科技工作者, 2022
