@@ -21,7 +21,10 @@ Welcome all. I am Huanle Zhang（章宦乐）, an associate professor in the Sch
 I got my Ph.D. in Computer Science from the University of California, Davis (UC Davis) in 2020, supervised by Prof. Prasant Mohapatra.
 I worked as a PostDoc Scholar in Prof. Xin Liu's group at UC Davis 2020-2022 and a Project Officer in Prof. Mo Li's group at NTU 2014-2016.
 
+**Research Interest: Internet of Things, Artificial Intelligence, Marine Technology** 
+
 **中国九三学社社员、山东省优青、山东大学青年未来学者、浙江温州人**
+
 
 
 # 🔥 News
