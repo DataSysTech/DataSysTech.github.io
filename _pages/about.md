@@ -36,13 +36,11 @@ I worked as a PostDoc Scholar in Prof. Xin Liu's group at UC Davis 2020-2022 and
 
 For the full list of my publications, please go to my [Google Scholar](https://scholar.google.com/citations?user=Xm4NYnsAAAAJ).
 
+- FVM: Practical Feather-Weight Virtualization on Commodity Microcontrollers, IEEE TC, 2025（CCF-A期刊）
 - Model Poisoning Attack against Neural Network Interpreters in IoT Devices, IEEE TMC, 2024（CCF-A期刊）
-- IoT-Enabled Supply Chain Management From A Customer Perspective: Challenges and Opportunities, IEEE IOTJ, 2024（SCI一区期刊）
 - Membership Inference Attacks against Incremental Learning in IoT Devices, IEEE TMC, 2024 (CCF-A期刊)
 - Ginver: Generative Model Inversion Attacks Against Collaborative Inference, ACM WWW, 2023（CCF-A会议）
-- Federated Learning Hyper-Parameter Tuning From A System Perspective, IEEE IOTJ, 2023（SCI一区期刊）
 - Model Poisoning Attack on Neural Network without Reference Data, IEEE TC, 2023（CCF-A期刊）
-- Client Selection in Federated Learning: Principles, Challenges, and Opportunities, IEEE IOTJ, 2023（SCI一区期刊）
 - Towards Unconstrained Vocabulary Eavesdropping with mmWave Radar using GAN, IEEE TMC, 2022（CCF-A期刊）
 - High Speed LED-to-Camera Communication using Color Shift Keying with Flicker Mitigation, IEEE TMC, 2020（CCF-A期刊）
 - StrLight: An Imperceptible Visible Light Communication System with String Lights, IEEE TMC, 2019（CCF-A期刊）
@@ -80,11 +78,13 @@ For the full list of my publications, please go to my [Google Scholar](https://s
 
 
 # 🐎 Grants
-- *2024.01 - 2027.12*, 国家自然科学区域联合重点基金：大规模复杂网络系统安全检测与诊断，联合负责人
-- *2024.01 - 2026.12*, 国家自然科学青年基金：基于联邦学习自动超参调整的数据流通赋能加速研究，主持
-- *2024.01 - 2026.12*, 山东省优秀青年科学基金(海外)：深远海船载舱养信息化建设和研究，主持
-- *2024.01 - 2026.12*, 山东省自然科学青年基金：物联网感知云平台设计和研究，主持
-- *2024.03 - 2025.12*, 浪潮云州工业互联网有限公司：关于面向QID的可信数据空间技术研究及应用，子课题
+- *2025.03 - 2025.11*, 面向数据要素市场的数据安全存储研究，青岛市大数据局，主持
+- *2024.03 - 2025.12*, 关于面向QID的可信数据空间技术研究及应用，浪潮云州工业互联网有限公司，子课题
+- *2024.01 - 2027.12*, 大规模复杂网络系统安全检测与诊断，国家自然科学区域联合重点基金，联合负责人
+- *2024.01 - 2026.12*, 基于联邦学习自动超参调整的数据流通赋能加速研究，国家自然科学青年基金，主持
+- *2024.01 - 2026.12*, 深远海船载舱养信息化建设和研究，山东省优秀青年科学基金(海外)，主持
+- *2024.01 - 2026.12*, 物联网感知云平台设计和研究，山东省自然科学青年基金，主持
+
 
 
 # ⚓ Awards
