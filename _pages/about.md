@@ -89,6 +89,7 @@ For the full list of my publications, please go to my [Google Scholar](https://s
 
 # ⚓ Awards
 
+- Excellent Guidance Teacher Gold Award, United Nations Institute for Sustainability Management, 2025 
 - 国际青年人工智能大赛一等奖, 2024
 - 山东省科学技术进步二等奖, 2024
 - 山东大学青年教师教学比赛三等奖, 2024
