@@ -24,7 +24,7 @@ I worked as a PostDoc Scholar in Prof. Xin Liu's group at UC Davis 2020-2022 and
 **Research Interest: Internet of Things, Artificial Intelligence, Marine Technology** 
 
 **中国九三学社社员、山东省优青、山东大学青年未来学者、浙江温州人**
-
+**青岛市海洋发展局副局长（挂职）**
 
 
 # 🔥 News
