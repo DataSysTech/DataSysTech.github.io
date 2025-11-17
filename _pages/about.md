@@ -29,6 +29,7 @@ I worked as a PostDoc Scholar in Prof. Xin Liu's group at UC Davis 2020-2022 and
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 挂职青岛市海洋发展局副局长，请大家多多支持工作，一起把海洋产业做大做强.
 - *2024.10*: &nbsp;🎉🎉 我们正在组织[2024全国大学生计算机系统能力大赛-操作系统设计赛（华东区域赛）](https://os.educg.net/)，欢迎报名参赛.
 - *2024.09*: &nbsp;🎉🎉 Serving as a TPC co-chair at [the 7th ACM/IEEE Workshop on Security and Privacy in Edge Computing](https://acm-ieee-sec.org/2024/interact_security.php) (EdgeSP 2024, co-located with SEC), please consider submitting papers. 
 - *2024.09*: &nbsp;🎉🎉 我们正在组织[第六届国际青年人工智能大赛](http://iyaic.com/)东部赛区和国际总决赛，欢迎报名参赛.
@@ -51,6 +52,7 @@ For the full list of my publications, please go to my [Google Scholar](https://s
 
 
 # 📖 Educations and Work
+- *2025.11 -  now*, Qingdao Municipal Marine Development Bureau, China, <u>Deputy Director (Temporary Secondment)</u>.
 - *2022.05 -  now*, Shandong University, China, <u>Associate Professor</u>, Team leader: Xiuzhen Cheng.
 - *2020.10 - 2022.05*, University of California, Davis, USA, <u>PostDoc</u>, Supervisor: Xin Liu. 
 - *2016.09 - 2020.12*, University of California, Davis, USA, <u>Ph.D.</u>, Supervisor: Prasant Mohapatra. 
