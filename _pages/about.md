@@ -38,6 +38,7 @@ I worked as a PostDoc Scholar in Prof. Xin Liu's group at UC Davis 2020-2022 and
 
 For the full list of my publications, please go to my [Google Scholar](https://scholar.google.com/citations?user=Xm4NYnsAAAAJ).
 
+- Hardware Support for Deterministic User-Level Interrupts in Real-Time Embedded Systems, ACM ASPLOS, 2026 (CCF-A会议)
 - FVM: Practical Feather-Weight Virtualization on Commodity Microcontrollers, IEEE TC, 2025（CCF-A期刊）
 - Model Poisoning Attack against Neural Network Interpreters in IoT Devices, IEEE TMC, 2024（CCF-A期刊）
 - Membership Inference Attacks against Incremental Learning in IoT Devices, IEEE TMC, 2024 (CCF-A期刊)
